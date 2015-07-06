@@ -8,7 +8,7 @@ Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fig
 
 ## Contributing
 
-We're trying to collect the best free training material in the world, so we have a higher standard than usual. Please read the [contributing Guide](https://github.com/jshomes/learning-resources/blob/master/Contributing.md) before opening issues or pull requests.
+We're trying to collect the best free training material in the world, so we have a higher standard than usual. Please read the [Contributing Guide](https://github.com/jshomes/learning-resources/blob/master/Contributing.md) before opening issues or pull requests.
 
 
 ## Web Fundamentals
