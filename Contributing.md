@@ -4,6 +4,8 @@ Hi, thank you in advance for your help. These resources will be used in classroo
 
 Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fighting-poverty-with-code-d1ed3ebd982d) and [The Cure for Homelessness](https://medium.com/end-homelessness/the-cure-for-homelessness-83ef0d621c71) to learn how this project got started.
 
+We're collecting free training resources that can be used as curriculum for courses. In particular, we're making these materials available for use by housing-first job training programs for the homeless, but there's no reason not to use them in a regular school, or just to teach yourself a new skill. Everybody's welcome.
+
 We're primarily interested in a few types of content. You'll tell us what kind of content you're contributing by adding a hashtag at the end - like Twitter or Facebook. Keep the content in learning order. It's a learning track, expertly curated by you (and a few friends).
 
 * Video Shorter is better. 5-15 minutes works best. **#video**
