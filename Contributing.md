@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Guide
 
 These resources will be used in classrooms around the world to teach essential job skills.
 
