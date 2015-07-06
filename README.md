@@ -6,7 +6,7 @@
 
 ## JavaScript
 
-* [Why JavaScript?](https://vimeo.com/101269995) (video) by [Eric Elliott](https://twitter.com/_ericelliott)
-* [JavaScript for Cats](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) by [Max Ogden](http://jsforcats.com/)
-* [Eloquent JavaScript](http://eloquentjavascript.net/) (book) by [Marijn Haverbeke](marijnjh)
+* [Why JavaScript?](https://vimeo.com/101269995) by [Eric Elliott](https://twitter.com/_ericelliott) #video
+* [JavaScript for Cats](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) by [Max Ogden](http://jsforcats.com/) #tutorial
+* [Eloquent JavaScript](http://eloquentjavascript.net/) by [Marijn Haverbeke](marijnjh) #book
 
