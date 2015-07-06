@@ -8,8 +8,8 @@ Our goal is to prepare students for successful careers in the software industry.
 
 We're on a mission to **cure homelessness & bridge the talent gap**.
 
-[Watch the 2-Minute JSHomes Video](https://vimeo.com/92982781)
-[Watch the Programming Literacy Documentary Trailer](http://www.programmingliteracy.com/)
+* [Watch the 2-Minute JSHomes Video](https://vimeo.com/92982781)
+* [Watch the Programming Literacy Documentary Trailer](http://www.programmingliteracy.com/)
 
 
 ## Learn More
