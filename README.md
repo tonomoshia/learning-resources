@@ -6,6 +6,10 @@ We're collecting free training resources that can be used as curriculum for cour
 
 Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fighting-poverty-with-code-d1ed3ebd982d) and [The Cure for Homelessness](https://medium.com/end-homelessness/the-cure-for-homelessness-83ef0d621c71) to learn how this project got started.
 
+## Contributing
+
+We're trying to collect the best free training material in the world, so we have a higher standard than usual. Please read the [contributing doc](https://github.com/jshomes/learning-resources/blob/master/Contributing.md) before opening issues or pull requests.
+
 
 ## Web Fundamentals
 
