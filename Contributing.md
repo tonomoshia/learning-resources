@@ -6,6 +6,41 @@ Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fig
 
 We're collecting free training resources that can be used as curriculum for courses. In particular, we're making these materials available for use by housing-first job training programs for the homeless, but there's no reason not to use them in a regular school, or just to teach yourself a new skill. Everybody's welcome.
 
+## Quality Standard
+
+We're looking for only the best of the best material. We're not trying to collect every free resource available in the world. That's Google's job. Our job is to make it easy for instructors to cherry pick a custom track that can easily compete with the top schools in the world. So please, don't try to add your latest blog post unless you really are one of the world-leading experts in your field.
+
+
+### How do I know if it's OK to submit other people's content?
+
+* Ask yourself, "would an industry expert submit this?"
+* Ask yourself, "is this topic covered **better** by one of the other resources listed with the same hashtag?"
+
+Remember, we're trying to create a cohesive curriculum. If there's already a better resource that teaches the same topic, that knowledge is already covered, so there's no need for you to submit something else.
+
+But if you know that what you're submitting is a **better resource**, please contribute! We'll always welcome a better resource.
+
+
+### How do I know if it's OK to submit my own content?
+
+The "other people's content" guidelines still apply, along with:
+
+* Do you teach at a highly respected school known to produce the world's best talent?
+* Do you get invited to speak at major industry conferences a lot?
+* Have you been published by one of the top industry publishers?
+* Does your blog attract 100,000+ unique pageviews?
+* Do you have more than 10k social media followers, and share primarily related content?
+
+If you answered yes to at least three questions, go ahead and submit content that you produced.
+
+
+## What if I'm not sure?
+
+Open [an issue](https://github.com/jshomes/learning-resources/issues/new?title=[Please%20review]) and ask for an expert to review your contribution. Make sure the text, `[Please review]` appears in the title.
+
+
+## What kind of content should I contribute?
+
 We're primarily interested in a few types of content. You'll tell us what kind of content you're contributing by adding a hashtag at the end - like Twitter or Facebook. Keep the content in learning order. It's a learning track, expertly curated by you (and a few friends).
 
 * Video Shorter is better. 5-15 minutes works best. **#video**
