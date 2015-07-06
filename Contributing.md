@@ -13,8 +13,10 @@ We're looking for only the best of the best material. We're not trying to collec
 
 ### How do I know if it's OK to submit other people's content?
 
-* Ask yourself, "would an industry expert submit this?"
-* Ask yourself, "is this topic covered **better** by one of the other resources listed with the same hashtag?"
+Ask yourself:
+
+* "Would an industry expert submit this?"
+* "Is this topic covered **better** by one of the other resources listed with the same hashtag?"
 
 Remember, we're trying to create a cohesive curriculum. If there's already a better resource that teaches the same topic, that knowledge is already covered, so there's no need for you to submit something else.
 
