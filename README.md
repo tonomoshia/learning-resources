@@ -46,7 +46,9 @@ We're trying to collect the best free training material in the world, so we have
 
 ## Security
 
-## WebGL
+## Animation & WebGL
+
+## UX Design, User Feedback Loops & Viral Growth
 
 ## Game Development
 
@@ -66,13 +68,11 @@ We're trying to collect the best free training material in the world, so we have
 
 ## Product Design
 
-## User Feedback Loops & Viral Growth
-
 ## Product Management
 
 ## Dev Leadership
 
-## Startups & Entrepreneurship
+## Startups, Entrepreneurship, & Marketing
 
 ## Fundraising (Crowdfunding, Loans, Angels, & VC)
 
