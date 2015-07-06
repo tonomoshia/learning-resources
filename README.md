@@ -1,4 +1,4 @@
-# Free Web Platform Learning Resources
+# Free Web Platform/SaaS Learning Resources
 
 These resources will be used in classrooms around the world to teach essential job skills.
 
@@ -15,6 +15,7 @@ We're trying to collect the best free training material in the world, so we have
 
 * [Web Fundamentals track](https://www.bento.io/tracks/web-fundamentals) by [Jon Chan] (https://twitter.com/jonhmchan), [Bento] (http://www.bento.io) #collection
 
+
 ## HTML
 
 ## CSS
@@ -25,13 +26,33 @@ We're trying to collect the best free training material in the world, so we have
 * [JavaScript for Cats](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) by [Max Ogden](http://jsforcats.com/) #tutorial
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by [Marijn Haverbeke](marijnjh) #book
 
+### Prototypal OO
+
+### Functional & Reactive Programming
+
+### Data Structures & Algorithms in JavaScript
+
 ## Node.js & npm
 
 ## WebGL
+
+## WebAssembly
 
 ## Git & GitHub
 
 ## Bash
 
-## WebAssembly
+## DevOps
+
+## Quality Engineering (QA)
+
+## Hiring
+
+## Product Management
+
+## Dev Leadership
+
+## Startups & Entrepreneurship
+
+## Fundraising (Crowdfunding, Loans, Angels, & VC)
 
