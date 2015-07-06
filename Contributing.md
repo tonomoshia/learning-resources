@@ -6,6 +6,10 @@ We're collecting free training resources that can be used as curriculum for cour
 
 Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fighting-poverty-with-code-d1ed3ebd982d) and [The Cure for Homelessness](https://medium.com/end-homelessness/the-cure-for-homelessness-83ef0d621c71) to learn how this project got started.
 
+## Order
+
+Keep the content in learning order. It's a learning track, expertly curated by you (and a few friends).
+
 
 ## Quality Standard
 
@@ -45,7 +49,7 @@ Open [an issue](https://github.com/jshomes/learning-resources/issues/new?title=[
 
 ## What kind of content should I contribute?
 
-We're primarily interested in a few types of content. You'll tell us what kind of content you're contributing by adding a hashtag at the end - like Twitter or Facebook. Keep the content in learning order. It's a learning track, expertly curated by you (and a few friends).
+We're primarily interested in a few types of content. You'll tell us what kind of content you're contributing by adding a hashtag at the end - like Twitter or Facebook.
 
 * Video Shorter is better. 5-15 minutes works best. **#video**
 * Long Video. Is your video over 15 minutes? Use hashtag: **#long_video**
