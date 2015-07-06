@@ -11,6 +11,7 @@ Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fig
 
 We're looking for only the best of the best material. We're not trying to collect every free resource available in the world. That's Google's job. Our job is to make it easy for instructors to cherry pick a custom track that can easily compete with the top schools in the world. So please, don't try to add your latest blog post unless you really are one of the world-leading experts in your field.
 
+If you think one of the existing resources could be replaced with something better, but you're not sure what that is yet, please [nominate it for replacement](https://github.com/jshomes/learning-resources/issues/new?title=[Replace?]). Copy and paste the item that needs replacing in the issue body.
 
 ### How do I know if it's OK to submit other people's content?
 
