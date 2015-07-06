@@ -17,6 +17,7 @@ We're primarily interested in a few types of content. You'll tell us what kind o
 * Community. An online place for students to meet other people interested in the topic so they can learn from each other. **#community**
 * News. A resource that lets the student track current developments about the topic. **#news**
 * Collection. An expert-curated collection of resources for a particular topic (like this one!). **#collection**
+* Course. A full course curriculum, typically put together for an educational organization such as a university, or online school. **#course**
 
 # Example Learning Track
 
