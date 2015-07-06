@@ -6,7 +6,16 @@ We're collecting free training resources that can be used as curriculum for cour
 
 Our goal is to prepare students for successful careers in the software industry.
 
+We're on a mission to **cure homelessness & bridge the talent gap**.
+
+[Watch the 2-Minute JSHomes Video](https://vimeo.com/92982781)
+[Watch the Programming Literacy Documentary Trailer](http://www.programmingliteracy.com/)
+
+
+## Learn More
+
 Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fighting-poverty-with-code-d1ed3ebd982d) and [The Cure for Homelessness](https://medium.com/end-homelessness/the-cure-for-homelessness-83ef0d621c71) to learn how this project got started.
+
 
 ## Contributing
 
