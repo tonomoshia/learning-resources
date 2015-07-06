@@ -2,6 +2,8 @@
 
 These resources will be used in classrooms around the world to teach essential job skills.
 
+Millions of people are homeless today, and if we don't change things, by 2020, there will be one million unfilled programming jobs. What if we could solve both problems at the same time?
+
 We're collecting free training resources that can be used as curriculum for courses. In particular, we're making these materials available for use by housing-first job training programs for the homeless, but there's no reason not to use them in a regular school, or just to teach yourself a new skill. Everybody's welcome.
 
 Our goal is to prepare students for successful careers in the software industry.
