@@ -36,7 +36,7 @@ We're trying to collect the best free training material in the world, so we have
 ## JavaScript (only ES6+)
 
 * [Why JavaScript?](https://vimeo.com/101269995) by [Eric Elliott](https://twitter.com/_ericelliott) #video
-* [JavaScript for Cats](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) by [Max Ogden](http://jsforcats.com/) #tutorial
+* [JavaScript for Cats](http://jsforcats.com/) by [Max Ogden](http://maxogden.com/) #tutorial
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by [Marijn Haverbeke](marijnjh) #book
 
 ### Prototypal OO
