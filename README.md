@@ -23,67 +23,43 @@ Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fig
 
 We're trying to collect the best free training material in the world, so we have a higher standard than usual. Please read the [Contributing Guide](https://github.com/jshomes/learning-resources/blob/master/Contributing.md) before opening issues or pull requests.
 
+## Contents
+1. [Web Fundamentals](tracks/fundamentals/index.md)
+1. [Developer Tools](tracks/dev-tools/index.md)
+  1. [Git & GitHub](tracks/git-and-github/index.md)
+  1. [Command Terminal](tracks/terminal/index.md)
+1. [HTML](tracks/html/index.md)
+1. [CSS](tracks/css/index.md)
+1. [JavaScript](tracks/javascript/index.md)
+  1. [Prototypal OO](tracks/javascript/prototypal-oo/index.md)
+  1. [Functional & Reactive Programming](tracks/javascript/functional-reactive/index.md)
+  1. [Node.js](tracks/node/index.md)
+  1. [Data Flow Modeling](tracks/javascript/data-flow/index.md)
+  1. [Data Structures & Algorithms in JavaScript](tracks/javascript/data-structures-and-algorithms/index.md)
+  1. [DSP](tracks/javascript/dsp/index.md)
+  1. [Big Data & visualization](tracks/javascript/big-data/index.md)
+  1. [Machine Learning](tracks/javascript/machine-learning/index.md)
+  1. [Genetic Programming](tracks/javascript/genetic-programming/index.md)
+1. [Security](tracks/security/index.md)
+1. [Animation & WebGL](tracks/animation-and-webgl/index.md)
+1. [UX Design](tracks/ux-design/index.md)
+1. [Game Development](tracks/game-development/index.md)
+1. [Robotics & IoT](tracks/robotics-and-iot/index.md)
+1. [WebAssembly](tracks/webassembly/index.md)
+1. [Continuous Delivery](tracks/continuous-delivery/index.md)
+  1. [DevOps](tracks/devops/index.md)
+  1. [Deployment](tracks/deployment/index.md)
+  1. [Scaling](tracks/scaling/index.md)
+  1. [Quality Engineering (QA)](tracks/quality-engineering/index.md)
+1. [Tech Business](tracks/tech-business/index.md)
+  1. [Tech Entrepreneurship](tracks/tech-entrepreneurship/index.md)
+  1. [Hiring](tracks/hiring/index.md)
+  1. [Team Building](tracks/team-building/index.md)
+  1. [Product Management](tracks/product-management/index.md)
+  1. [Marketing](tracks/marketing/index.md)
+  1. [Viral Growth](tracks/viral-growth/index.md)
+  1. [Fundraising (Crowdfunding, Loans, Angels, & VC)](tracks/fundraising/index.md)
+1. Future
+  1. [Quantum Computing](tracks/future/quantum-computing.md)
 
-## Web Fundamentals
-
-* [Web Fundamentals track](https://www.bento.io/tracks/web-fundamentals) by [Jon Chan] (https://twitter.com/jonhmchan), [Bento] (http://www.bento.io) #collection
-
-
-## HTML
-
-## CSS
-
-## JavaScript (only ES6+)
-
-* [Why JavaScript?](https://vimeo.com/101269995) by [Eric Elliott](https://twitter.com/_ericelliott) #video
-* [JavaScript for Cats](http://jsforcats.com/) by [Max Ogden](http://maxogden.com/) #tutorial
-* [Eloquent JavaScript](http://eloquentjavascript.net/) by [Marijn Haverbeke](https://twitter.com/marijnjh) #book
-
-### Prototypal OO
-
-### Functional & Reactive Programming
-
-### Data Flow Modeling
-
-### Data Structures & Algorithms in JavaScript
-
-### DSP
-
-### Data mining & visualization
-
-### Machine Learning, Genetic Programming, & Quantum Computing
-
-## Node.js & npm
-
-## Security
-
-## Animation & WebGL
-
-## UX Design, User Feedback Loops & Viral Growth
-
-## Game Development
-
-## WebAssembly
-
-## Git & GitHub
-
-## Bash
-
-## DevOps
-
-## Robotics & IoT
-
-## Quality Engineering (QA)
-
-## Hiring
-
-## Product Design
-
-## Product Management
-
-## Dev Leadership
-
-## Startups, Entrepreneurship, & Marketing
-
-## Fundraising (Crowdfunding, Loans, Angels, & VC)
-
+Got something to add? Read the [Contributing Guide](https://github.com/jshomes/learning-resources/blob/master/Contributing.md) and open a pull request.
