@@ -31,6 +31,7 @@ We're trying to collect the best free training material in the world, so we have
 1. [HTML](tracks/html/index.md)
 1. [CSS](tracks/css/index.md)
 1. [JavaScript](tracks/javascript/index.md)
+  1. [Fundamentals](tracks/javascript/fundamentals/index.md)
   1. [Prototypal OO](tracks/javascript/prototypal-oo/index.md)
   1. [Functional & Reactive Programming](tracks/javascript/functional-reactive/index.md)
   1. [Node.js](tracks/node/index.md)
