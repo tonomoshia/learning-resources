@@ -26,8 +26,8 @@ We're trying to collect the best free training material in the world, so we have
 ## Contents
 1. [Fundamentals](tracks/fundamentals/index.md)
 1. [Developer Tools](tracks/dev-tools/index.md)
-  1. [Git & GitHub](tracks/git-and-github/index.md)
-  1. [Command Terminal](tracks/terminal/index.md)
+  1. [Git & GitHub](tracks/dev-tools/git-and-github/index.md)
+  1. [Command Terminal](tracks/dev-tools/terminal/index.md)
 1. [HTML](tracks/html/index.md)
 1. [CSS](tracks/css/index.md)
 1. [JavaScript](tracks/javascript/index.md)
