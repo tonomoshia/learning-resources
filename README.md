@@ -24,7 +24,7 @@ Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fig
 We're trying to collect the best free training material in the world, so we have a higher standard than usual. Please read the [Contributing Guide](https://github.com/jshomes/learning-resources/blob/master/Contributing.md) before opening issues or pull requests.
 
 ## Contents
-1. [Web Fundamentals](tracks/fundamentals/index.md)
+1. [Fundamentals](tracks/fundamentals/index.md)
 1. [Developer Tools](tracks/dev-tools/index.md)
   1. [Git & GitHub](tracks/git-and-github/index.md)
   1. [Command Terminal](tracks/terminal/index.md)
