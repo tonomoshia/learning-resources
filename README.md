@@ -16,7 +16,7 @@ We're on a mission to **cure homelessness & bridge the talent gap**.
 
 ## Learn More
 
-Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fighting-poverty-with-code-d1ed3ebd982d) and [The Cure for Homelessness](https://medium.com/end-homelessness/the-cure-for-homelessness-83ef0d621c71) to learn how this project got started.
+Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fighting-poverty-with-code-d1ed3ebd982d) and [The Cure for Homelessness](https://medium.com/end-homelessness/the-cure-for-homelessness-83ef0d621c71) to learn how this project got started. We host content on the [JSHomes Platform](https://github.com/jshomes/JSHomes-Platform) - an open-source platform dedicated to hosting courseware based on [Learn JavaScript with Eric Elliott](https://ericelliottjs.com/).
 
 
 ## Contributing
