@@ -55,6 +55,7 @@ We're primarily interested in a few types of content. You'll tell us what kind o
 * Long Video. Is your video over 15 minutes? Use hashtag: **#long_video**
 * Book. Only add books that are available for free online. **#book**
 * Article. Blog post? Book excerpt. Paper? The hashtag you want is **#article**
+* Paper. An academic or technical whitepaper. **#paper**
 * Tutorial. A tutorial is a mix of text content and instructions for the reader to follow. **#tutorial**
 * Exercises. Just like tutuorials, but exercises tell the student when something is wrong and let them try to fix it. e.g. [learnrx](http://jhusain.github.io/learnrx/) **#exercises**
 * Project. A resource that describes a project for a student and lets the student complete it. **#project**
