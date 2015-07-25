@@ -60,6 +60,7 @@ We're primarily interested in a few types of content. You'll tell us what kind o
 * Exercises. Just like tutuorials, but exercises tell the student when something is wrong and let them try to fix it. e.g. [learnrx](http://jhusain.github.io/learnrx/) **#exercises**
 * Project. A resource that describes a project for a student and lets the student complete it. **#project**
 * Game. A game designed to teach the student how to do something. **#game**
+* Experience. An interactive experience, as in educational virtual reality or augmented reality. **#experience**
 * Infographic. A graphical visualization of information, somtimes connecting several data sets to reveal a larger picture. **#infographic**
 * Community. An online place for students to meet other people interested in the topic so they can learn from each other. **#community**
 * News. A resource that lets the student track current developments about the topic. **#news**
