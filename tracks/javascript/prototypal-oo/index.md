@@ -7,4 +7,3 @@
 * ["Three Different Kinds of Prototypal OO"](http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/) by [Eric Elliott](https://twitter.com/_ericelliott). #article
 * ["Classical Inheritance is Obsolete - How to Think in Prototypal OO"](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott). #video
 * ["Prototypal Inheritance with Stamps"](http://chimera.labs.oreilly.com/books/1234000000262/ch03.html#prototypal_inheritance_with_stamps) by [Eric Elliott](https://twitter.com/_ericelliott). #article
-* ["Stampit Advanced Examples"](https://github.com/stampit-org/stampit/blob/master/ADVANCED_EXAMPLES.md) by [Vasyl Boroviak](https://github.com/koresar). #article
