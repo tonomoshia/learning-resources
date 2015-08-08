@@ -47,7 +47,7 @@ We're trying to collect the best free training material in the world, so we have
 1. [Game Development](tracks/game-development/index.md)
 1. [Robotics](tracks/robotics/index.md)
 1. [Biotech](tracks/biotech/index.md)
-1. [Wearables & IoT](tracks/wearables-and-iot/index.md)
+1. [Wearables, Augmented Reality, and IoT](tracks/wearables-and-iot/index.md)
 1. [WebAssembly](tracks/webassembly/index.md)
 1. [Continuous Delivery](tracks/continuous-delivery/index.md)
   1. [DevOps](tracks/devops/index.md)
