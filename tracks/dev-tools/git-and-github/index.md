@@ -1,5 +1,6 @@
 # Git & GitHub
 
+* ["Try Git"](https://try.github.io) #course
 * ["Git Basics: What is Version Control"](http://git-scm.com/video/what-is-version-control) via [Git's website](http://git-scm.com/). #video
 * ["Git Basics: What is Git?"](http://git-scm.com/video/what-is-git) via [Git's website](http://git-scm.com/). #video
 * ["GitHub for Beginners: Don't Get Scared, Get Started"](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)) by [Lauren Orsini](https://twitter.com/laureninspace). #article
