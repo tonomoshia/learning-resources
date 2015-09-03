@@ -1,3 +1,3 @@
 # Google Chrome DevTools
 
-* ["CodeSchool: Explore and Master DevTools"](http://discover-devtools.codeschool.com/) #course
+* ["Explore and Master DevTools"](http://discover-devtools.codeschool.com/) by [Code School](https://www.codeschool.com/) #course
