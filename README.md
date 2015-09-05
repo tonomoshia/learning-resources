@@ -28,6 +28,7 @@ We're trying to collect the best free training material in the world, so we have
 1. [Developer Tools](tracks/dev-tools/index.md)
   1. [Git & GitHub](tracks/dev-tools/git-and-github/index.md)
   1. [Command Terminal](tracks/dev-tools/terminal/index.md)
+  1. [Chrome Developer Tools](tracks/dev-tools/chrome-devtools/index.md)
 1. [HTML](tracks/html/index.md)
 1. [CSS](tracks/css/index.md)
 1. [JavaScript](tracks/javascript/index.md)
@@ -63,6 +64,6 @@ We're trying to collect the best free training material in the world, so we have
   1. [Viral Growth](tracks/viral-growth/index.md)
   1. [Fundraising (Crowdfunding, Loans, Angels, & VC)](tracks/fundraising/index.md)
 1. Future
-  1. [Quantum Computing](tracks/future/quantum-computing.md)
+  1. [Quantum Computing](tracks/future/quantum-computing/index.md)
 
 Got something to add? Read the [Contributing Guide](https://github.com/jshomes/learning-resources/blob/master/Contributing.md) and open a pull request.
