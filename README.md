@@ -36,7 +36,7 @@ We're trying to collect the best free training material in the world, so we have
   1. [Prototypal OO](tracks/javascript/prototypal-oo/index.md)
   1. [Functional & Reactive Programming](tracks/javascript/functional-reactive/index.md)
   1. [Node.js](tracks/javascript/node/index.md)
-  1. [Data Flow Modeling](tracks/javascript/data-flow/index.md)
+  1. [Data Flow Modeling](tracks/javascript/data-flow-modeling/index.md)
   1. [Data Structures & Algorithms in JavaScript](tracks/javascript/data-structures-and-algorithms/index.md)
   1. [DSP](tracks/javascript/dsp/index.md)
   1. [Big Data & visualization](tracks/javascript/big-data/index.md)
